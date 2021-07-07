@@ -1,4 +1,4 @@
-### Hey there, I'm Abel Junior 👋
+### Hey there, I'm Abel Junior :wave:
 
 <a href="https://storyset.com/programming" title="Illustration by Freepik Storyset">
   <img align="right" src="./assets/code.svg" alt="code your life" width=35% height=35% />
