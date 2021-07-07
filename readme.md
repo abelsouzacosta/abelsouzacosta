@@ -4,7 +4,7 @@
   <img align="right" src="./assets/code.svg" alt="code your life" width=45% height=45% />
 </a>
 
-Passionate for solving problems through code \u{1F4BB}
+Passionate for solving problems through code 💻
 
 NodeJS | React | Typescript enthusiast
 
