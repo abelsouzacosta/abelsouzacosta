@@ -1,10 +1,10 @@
 ### Hey there, I'm Abel Junior 👋
 
 <a href="https://storyset.com/programming" title="Illustration by Freepik Storyset">
-  <img align="right" src="./assets/code.svg" alt="code your life" width=50% height=50% />
+  <img align="right" src="./assets/code.svg" alt="code your life" width=45% height=45% />
 </a>
 
-Passionate for technology...
+Passionate for solving problems through code
 
 NodeJS | React | Typescript enthusiast
 
@@ -14,8 +14,4 @@ NodeJS | React | Typescript enthusiast
 
 [![Gmail Badge](https://img.shields.io/badge/-abelsouzacosta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abelsouzacosta@gmail.com)](mailto:abelsouzacosta@gmail.com)
 
-<a href="mailto:abelsouzacosta@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-GMAIL-darkred?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abelsouzacosta@gmail.com"/>
-</a>
-
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Abel%20Souza%20Costa%20Junior-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelsouzacosta/)](https://www.linkedin.com/in/abelsouzacosta/)
