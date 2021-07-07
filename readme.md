@@ -13,7 +13,7 @@ NodeJS | React | Typescript enthusiast
 </p>
 
 <a href="mailto:abelsouzacosta@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-GMAIL-darkred?style=for-the-badge&logo=Gmail&logoColor=white& link=mailto:abelsouzacosta@gmail.com"/>
+  <img src="https://img.shields.io/badge/-GMAIL-darkred?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abelsouzacosta@gmail.com"/>
 </a>
 
 </p>
