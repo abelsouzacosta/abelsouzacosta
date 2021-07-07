@@ -1,6 +1,6 @@
 ### Hey there, I'm Abel Junior 👋
 
-<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
+<a href="https://storyset.com/programming" title="Illustration by Freepik Storyset">
   <img align="right" src="./assets/code.svg" alt="code your life" width=50% height=50% />
 </a>
 
