@@ -12,6 +12,8 @@ NodeJS | React | Typescript enthusiast
   Hello my name is Abel. I'm a Bachelor of Information Systems student, i started my journey in programming through technologies like Java, PHP, Delphi and Python. Currently, i'm focused on modern Javascript technologies such as NodeJS and React<br>
 </p>
 
+[![Gmail Badge](https://img.shields.io/badge/-abelsouzacosta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abelsouzacosta@gmail.com)](mailto:abelsouzacosta@gmail.com)
+
 <a href="mailto:abelsouzacosta@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-GMAIL-darkred?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abelsouzacosta@gmail.com"/>
 </a>
